@@ -31,33 +31,33 @@ const EVENT_STOPS: EventStop[] = [
   //   icon: "●",
   //   group: "January 21, 2026",
   // },
-  {
-    id: "sangeetSoiree",
-    title: "Sangeet Soirée",
-    date: "January 21, 2026",
-    time: "6:30 PM onwards",
-    label: "Ladies Sangeet",
-    icon: "♪",
-    group: "January 21, 2026",
-  },
-  {
-    id: "engagement",
-    title: "The Union of Rings",
-    date: "January 21, 2026",
-    time: "7:30 PM",
-    label: "Ring Ceremony",
-    icon: "◎",
-    group: "January 21, 2026",
-  },
-  {
-    id: "dinner1",
-    title: "Dinner",
-    date: "January 21, 2026",
-    time: "8:30 PM",
-    label: "Grand Feast",
-    icon: "◎",
-    group: "January 21, 2026",
-  },
+  // {
+  //   id: "sangeetSoiree",
+  //   title: "Sangeet Soirée",
+  //   date: "January 21, 2026",
+  //   time: "6:30 PM onwards",
+  //   label: "Ladies Sangeet",
+  //   icon: "♪",
+  //   group: "January 21, 2026",
+  // },
+  // {
+  //   id: "engagement",
+  //   title: "The Union of Rings",
+  //   date: "January 21, 2026",
+  //   time: "7:30 PM",
+  //   label: "Ring Ceremony",
+  //   icon: "◎",
+  //   group: "January 21, 2026",
+  // },
+  // {
+  //   id: "dinner1",
+  //   title: "Dinner",
+  //   date: "January 21, 2026",
+  //   time: "8:30 PM",
+  //   label: "Grand Feast",
+  //   icon: "◎",
+  //   group: "January 21, 2026",
+  // },
   {
     id: "barat",
     title: "Reception of Barat",
@@ -415,7 +415,7 @@ export const HeroSection: FC<HeroSectionProps> = ({ onEventClick }) => {
               textTransform: "uppercase",
             }}
           >
-            January 21–23, 2026
+            January 22–23, 2026
           </p>
 
           {/* Clock + breakdown */}

@@ -93,7 +93,7 @@ const Index = ({ onDoorsOpen }: IndexProps) => {
 
           {/* Haldi Section */}
 
-          <EventSection
+          {/* <EventSection
             id="shagan"
             title="Shagan: The Sacred Blessing"
             subtitle="A blessing offered, a journey begun"
@@ -104,7 +104,7 @@ const Index = ({ onDoorsOpen }: IndexProps) => {
             image={phere}
             imageAlt="Shagan: The Sacred Blessing"
             reversed
-          />
+          /> */}
 
           {/* <EventSection
             id="sangeetSoiree"
@@ -118,7 +118,7 @@ const Index = ({ onDoorsOpen }: IndexProps) => {
             imageAlt="Sangeet Soirée"
           /> */}
 
-<EventSection
+{/* <EventSection
   id="sangeetSoiree"
   title="Sangeet Soirée"
   subtitle="Where music becomes our memory"
@@ -128,14 +128,14 @@ const Index = ({ onDoorsOpen }: IndexProps) => {
   description="With heartfelt joy and warm regards, Harsimran Kaur Bedi cordially invites you to grace the Sangeet Soirée on Wednesday, January 21, 2026 at 6:30 in the evening at the Silver Banquet, 3rd Floor, Agrasen Foundation. Join us for an enchanting celebration of music, dance, laughter, and cherished moments as we gather to honour this joyous occasion. Your presence will make the evening truly memorable."
   image={haldiCeremony}
   imageAlt="Sangeet Soirée"
-/>
+/> */}
 
 
 
 
 
           {/* Sangeet Section */}
-          <EventSection
+          {/* <EventSection
             id="engagement"
             title="Union of Rings"
             subtitle="Two promises, one beginning"
@@ -146,7 +146,7 @@ const Index = ({ onDoorsOpen }: IndexProps) => {
             image={sangeetCelebration}
             imageAlt="Union of Rings"
             reversed
-          />
+          /> */}
 
           {/* Anand Karaj Section */}
           <EventSection

@@ -7,10 +7,10 @@ interface NavItem {
 }
 
 const navItems: NavItem[] = [
-  { id: "home", label: "Home" },
-  { id: "shagan", label: "Shagan: The Sacred Blessing" },
-  { id: "sangeetSoiree", label: "Sangeet Soirée" },
-  { id: "engagement", label: "Union of Rings" },
+  // { id: "home", label: "Home" },
+  // { id: "shagan", label: "Shagan: The Sacred Blessing" },
+  // { id: "sangeetSoiree", label: "Sangeet Soirée" },
+  // { id: "engagement", label: "Union of Rings" },
   { id: "barat", label: "Barat & Reception" },
   { id: "anandKaraj", label: "Anand Karaj" },
   // { id: "phere", label: "Phere" },
