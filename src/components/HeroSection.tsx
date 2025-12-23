@@ -22,15 +22,15 @@ interface EventStop {
 }
 
 const EVENT_STOPS: EventStop[] = [
-  {
-    id: "shagan",
-    title: "Shagan: The Sacred Blessing",
-    date: "January 21, 2026",
-    time: "6:00 PM",
-    label: "Shagan",
-    icon: "●",
-    group: "January 21, 2026",
-  },
+  // {
+  //   id: "shagan",
+  //   title: "Shagan: The Sacred Blessing",
+  //   date: "January 21, 2026",
+  //   time: "6:00 PM",
+  //   label: "Shagan",
+  //   icon: "●",
+  //   group: "January 21, 2026",
+  // },
   {
     id: "sangeetSoiree",
     title: "Sangeet Soirée",
