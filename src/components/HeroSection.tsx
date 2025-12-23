@@ -251,6 +251,22 @@ export const HeroSection: FC<HeroSectionProps> = ({ onEventClick }) => {
           ੴ ਸਤਿਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ
         </p>
 
+        <p
+          className="
+            font-body 
+            text-sm sm:text-base md:text-sm 
+            text-gold-dark 
+            tracking-[0.25em] md:tracking-[0.4em]
+            uppercase 
+            mb-3 md:mb-4 
+            opacity-0 
+            animate-fade-in-up
+          "
+          style={{ animationDelay: "0.5s", animationFillMode: "forwards" }}
+        >
+          One Supreme Reality, whose Name is Truth, the Creator Being
+        </p>
+
         {/* INVITATION BLOCK */}
         <div
           className="opacity-0 animate-fade-in-up"
