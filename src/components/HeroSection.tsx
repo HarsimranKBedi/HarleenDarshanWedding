@@ -254,7 +254,7 @@ export const HeroSection: FC<HeroSectionProps> = ({ onEventClick }) => {
         <p
           className="
             font-body 
-            text-sm sm:text-base md:text-sm 
+            text-sm sm:text-base md:text-xs 
             text-gold-dark 
             tracking-[0.25em] md:tracking-[0.4em]
             uppercase 
